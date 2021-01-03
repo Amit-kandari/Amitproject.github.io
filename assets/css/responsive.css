@@ -1,0 +1,66 @@
+@media only screen and (max-width: 1024px) {
+
+
+
+    .second{
+        padding: 50px 0px;
+    }
+}
+
+
+
+@media only screen and (max-width: 992px) {
+    .testonomilas {padding: 50px 00px;
+
+    }
+    h3{
+        font-size: 20px;
+        margin-bottom: 9px;
+        
+    }
+    .takeaction{
+        padding: 40px 0px;
+    }
+    .flex-cell{
+        width: 50%;}
+
+        #footer{
+            padding: 40px 0px;
+        }
+    
+}
+
+
+
+@media only screen and (max-width: 767px) {.flex{
+    display: block;
+}
+.flex-cell{
+    width: 100%;
+}
+.eiusmod{ padding: 30px;
+
+}
+
+
+
+}
+
+@media only screen and (max-width: 575px) {
+
+    .eiusmod{
+        text-align: center;
+        width: 100%;
+    }
+    .sedto{
+        display: block;
+    }
+    h3{
+        font-size: 16px;
+    }
+    .gallery{
+        width: 100%;
+    }
+
+
+}
